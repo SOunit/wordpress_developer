@@ -27,6 +27,3 @@
         </ul>
     </div>
 
-</body>
-
-</html>
