@@ -63,6 +63,12 @@
             <li>the_permalink</li>
         </ul>
     </div>
+    <div class="item item--bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/sample_image.jpg') ?>);">
+        <h2>how to get image</h2>
+        <ul>
+            <li>get_theme_file_uri('/images/sample_image.jps')</li>
+        </ul>
+    </div>
 
 </div>
 
